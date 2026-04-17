@@ -3,7 +3,8 @@
   "description": "Aplicação Web para agendamento de corte de cabelo.",
   "author": "Charles Kauã Santana Barbosa",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --mode production",
+    "start": "node server.js",
     "dev": "webpack server",
     "server": "json-server --watch server.json --port 3333"
   },
