@@ -1,4 +1,4 @@
-💇‍♂️ Hair Day
+#💇‍♂️ Hair Day
 
 📖 Sobre o Projeto
 
